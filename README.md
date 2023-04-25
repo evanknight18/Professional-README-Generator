@@ -1,11 +1,11 @@
 
-# Profession READme Generator
+# Pro README Generator
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-This project will generate a complete READme based on user input
+This program generates a professional README based on user input
 
 ## Table of Contents
 
@@ -18,11 +18,11 @@ This project will generate a complete READme based on user input
 
 ## Installation
 
-1. Clone repo
+node.js, inquirer
 
 ## Usage
 
-Bingy Bing
+N/A
 
 ## License
 
@@ -30,11 +30,11 @@ This project is licensed under the terms of the MIT License.
 
 ## Contributing
 
-Don't
+contribute at will
 
 ## Tests
 
-asdfasdf
+npm run test
 
 ## Questions
 
